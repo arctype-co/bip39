@@ -1,4 +1,4 @@
-[
+var list = [
   "abandon",
   "ability",
   "able",
@@ -2048,3 +2048,5 @@
   "zone",
   "zoo"
 ]
+
+module.exports = list;
